@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/delmwinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delmwinb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11558483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11558483" height="30" width="40" /></a>
 <a href="https://instagram.com/_delb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_delb_" height="30" width="40" /></a>
-<a href="https://medium.com/@delmwin.baeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@delmwin.baeka" height="30" width="40" /></a>
+<a href="https://medium.com/@dbaeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@delmwin.baeka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
