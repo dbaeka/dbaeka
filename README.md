@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://dbaeka.com/delmwin_resume.pdf](https://dbaeka.com/delmwin_resume.pdf)
 
+- 🛠️ Know about my projects [https://dbaeka.com/projects_summary.pdf](https://dbaeka.com/projects_summary.pdf)
+
 - ⚡ Fun fact **I love racing, waakye (Ghanaian food), math and the beach**
 
 <h3 align="left">Connect with me:</h3>
