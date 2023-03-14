@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dbaeka.com](https://dbaeka.com)
 
-- 💬 Ask me about **swift,laravel,vue,react,c++,c,ghana**
+- 💬 Ask me about **golang,laravel,vue,react,c++,c,ghana,f1**
 
 - 📫 How to reach me **dbaekajnr@gmail.com**
 
