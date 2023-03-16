@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbaeka" alt="dbaeka" /></a> </p>
 
-- 🌱 I’m currently learning **microservices architecture**
-
 - 👨‍💻 All of my projects are available at [https://dbaeka.com](https://dbaeka.com)
 
 - 💬 Ask me about **golang,laravel,vue,react,c++,c,ghana,f1**
