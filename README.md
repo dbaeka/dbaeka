@@ -7,19 +7,12 @@
 
 - 💬 Ask me about **golang,laravel,vue,react,c++,c,ghana,f1**
 
-- 📫 How to reach me **dbaekajnr@gmail.com**
-
-- 📄 Know about my experiences [https://dbaeka.com/delmwin_resume.pdf](https://dbaeka.com/delmwin_resume.pdf)
-
-- 🛠️ Know about my projects [https://dbaeka.com/projects_summary.pdf](https://dbaeka.com/projects_summary.pdf)
-
 - ⚡ Fun fact **I love racing, waakye (Ghanaian food), math and the beach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/delmwinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delmwinb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11558483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11558483" height="30" width="40" /></a>
-<a href="https://instagram.com/_delb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_delb_" height="30" width="40" /></a>
 <a href="https://medium.com/@dbaeka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@delmwin.baeka" height="30" width="40" /></a>
 </p>
 
