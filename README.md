@@ -4,7 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=System.init(Delmwin_Baeka);Loading+Profile...;Status:+Online+%E2%9C%85;Stack:+Golang+%7C+Vue+%7C+PHP;Location:+Ethernet+Cable,+Datacenter&font=VT323&center=true&width=1020&height=70&color=00FF00&vCenter=true&size=35&background=000000" alt="Typing SVG" />
 </a>
 
-<br/>
+
+### ⚠️ DANGER ZONE
+
+
+<!-- The Funny Deploy Button: Clicking this opens a GitHub Issue saying you broke prod -->
+<a href="https://github.com/dbaeka/dbaeka/issues/new?assignees=dbaeka&labels=invalid,wontfix&title=🚨+PEBCAK:+I+Am+Why+We+Cant+Have+Nice+Things&body=Dear+Delmwin,%0A%0AI+am+opening+this+issue+to+admit+that+I+lack+basic+impulse+control.+I+saw+the+giant+button+labeled+'DO+NOT+CLICK'+and+took+that+as+a+personal+challenge.%0A%0AI+refused+to+listen+to+my+seniors,+I+ignored+the+documentation,+and+now+the+production+server+is+screaming.%0A%0APlease+fix+my+mess+while+I+think+about+my+life+choices.%0A%0AP.S.+Sending+Waakye+immediately.">
+  <img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
+</a>
+<br>
+<br>
 </div>
 
 <pre>
@@ -35,15 +44,7 @@
   <img src="https://img.shields.io/badge/MOOD-WAAKYE_&_CODE-00ffff?style=for-the-badge&labelColor=000000&color=00ffff" alt="Mood">
   <img src="https://img.shields.io/badge/FOCUS-GOLANG-ff00ff?style=for-the-badge&logo=go&logoColor=white&labelColor=000000" alt="Go">
 </p>
-
-### ⚠️ DANGER ZONE
-
-
-<!-- The Funny Deploy Button: Clicking this opens a GitHub Issue saying you broke prod -->
-<a href="https://github.com/dbaeka/dbaeka/issues/new?assignees=dbaeka&labels=invalid,wontfix&title=🚨+PEBCAK:+I+Am+Why+We+Cant+Have+Nice+Things&body=Dear+Delmwin,%0A%0AI+am+opening+this+issue+to+admit+that+I+lack+basic+impulse+control.+I+saw+the+giant+button+labeled+'DO+NOT+CLICK'+and+took+that+as+a+personal+challenge.%0A%0AI+refused+to+listen+to+my+seniors,+I+ignored+the+documentation,+and+now+the+production+server+is+screaming.%0A%0APlease+fix+my+mess+while+I+think+about+my+life+choices.%0A%0AP.S.+Sending+Waakye+immediately.">
-  <img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
-</a>
-
+  
 </div>
 
 ---
