@@ -40,9 +40,8 @@
 
 
 <!-- The Funny Deploy Button: Clicking this opens a GitHub Issue saying you broke prod -->
-
-<a href="https://github.com/dbaeka/dbaeka/issues/new?title%3D🚨+Alert:+I+Clicked+The+Button+and+Broke+Production&title=Tech Debt Generator 3000&body=I+refuse+to+listen+to+my+seniors.+I+ignored+the+warning+label+and+now+the+server+is+on+fire.+Send+Waakye.">
-<img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
+<a href="https://github.com/dbaeka/dbaeka/issues/new?assignees=dbaeka&labels=invalid,wontfix&title=🚨+PEBCAK:+I+Am+Why+We+Cant+Have+Nice+Things&body=Dear+Delmwin,%0A%0AI+am+opening+this+issue+to+admit+that+I+lack+basic+impulse+control.+I+saw+the+giant+button+labeled+'DO+NOT+CLICK'+and+took+that+as+a+personal+challenge.%0A%0AI+refused+to+listen+to+my+seniors,+I+ignored+the+documentation,+and+now+the+production+server+is+screaming.%0A%0APlease+fix+my+mess+while+I+think+about+my+life+choices.%0A%0AP.S.+Sending+Waakye+immediately.">
+  <img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
 </a>
 
 </div>
