@@ -47,6 +47,18 @@
   
 </div>
 
+<!-- SNAKE ANIMATION CONTAINER -->
+
+<!-- Note: Ensure the GitHub Action is running to populate this file -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" width="100%" />
+</picture>
+</div>
+
 ---
 
 ### 📟 `user_profile.go`
@@ -220,18 +232,6 @@ border_color=00ffff (Cyan)
 <a href="https://github.com/dbaeka">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbaeka&layout=compact&hide_border=false&bg_color=000000&title_color=ff00ff&text_color=00ff00&icon_color=00ffff&border_color=00ffff" height="160" alt="languages graph" />
 </a>
-</div>
-
-<!-- SNAKE ANIMATION CONTAINER -->
-
-<!-- Note: Ensure the GitHub Action is running to populate this file -->
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" width="100%" />
-</picture>
 </div>
 
 <div align="center">
