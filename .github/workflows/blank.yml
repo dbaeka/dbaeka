@@ -1,0 +1,33 @@
+name: Generate GitHub Snake
+
+# Trigger this workflow on push to main branch or manually
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-snake:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout your repository so the workflow can write files
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Generate the snake visuals
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+
+      # 3. Commit and push the generated files back to the repo
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub Snake visuals"
+          branch: main
