@@ -36,6 +36,15 @@
   <img src="https://img.shields.io/badge/FOCUS-GOLANG-ff00ff?style=for-the-badge&logo=go&logoColor=white&labelColor=000000" alt="Go">
 </p>
 
+### ⚠️ DANGER ZONE
+
+
+<!-- The Funny Deploy Button: Clicking this opens a GitHub Issue saying you broke prod -->
+
+<a href="https://github.com/dbaeka/dbaeka/issues/new?title%3D🚨+Alert:+I+Clicked+The+Button+and+Broke+Production&title=Tech Debt Generator 3000&body=I+refuse+to+listen+to+my+seniors.+I+ignored+the+warning+label+and+now+the+server+is+on+fire.+Send+Waakye.">
+<img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
+</a>
+
 </div>
 
 ---
@@ -226,16 +235,7 @@ border_color=00ffff (Cyan)
 </div>
 
 <div align="center">
-
-### ⚠️ DANGER ZONE
-
-
-<!-- The Funny Deploy Button: Clicking this opens a GitHub Issue saying you broke prod -->
-
-<a href="https://github.com/dbaeka/dbaeka/issues/new?title%3D🚨+Alert:+I+Clicked+The+Button+and+Broke+Production&title=Tech Debt Generator 3000&body=I+refuse+to+listen+to+my+seniors.+I+ignored+the+warning+label+and+now+the+server+is+on+fire.+Send+Waakye.">
-<img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
-</a>
-
+  
 ### 📡 Establish Connection
 
 <p align="center">
