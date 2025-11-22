@@ -110,7 +110,7 @@ func main() {
 }
 ```
 
-💾 The Arsenal
+### 💾 The Arsenal
 
 <div align="center">
 
@@ -151,7 +151,7 @@ func main() {
 
 </div>
 
-📊 System Diagnostics
+### 📊 System Diagnostics
 
 <div align="center">
 <!--
@@ -184,7 +184,16 @@ border_color=00ffff (Cyan)
 
 <div align="center">
 
-📡 Establish Connection
+### ⚠️ DANGER ZONE
+
+
+<!-- The Funny Deploy Button: Clicking this opens a GitHub Issue saying you broke prod -->
+
+<a href="https://github.com/dbaeka/dbaeka/issues/new?title%3D🚨+Alert:+I+Clicked+The+Button+and+Broke+Production&body=I+ignored+the+warning+label+and+now+the+server+is+on+fire.+Send+Waakye.">
+<img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
+</a>
+
+### 📡 Establish Connection
 
 <p align="center">
 <a href="https://linkedin.com/in/delmwinb" target="blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0077B5" alt="delmwinb" /></a>
