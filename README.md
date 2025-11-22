@@ -5,18 +5,29 @@
 </a>
 
 <br/>
+</div>
 
 <pre>
 <code style="color: #ff00ff">
-  _____       _                 _       
- |  __ \     | |               (_)      
- | |  | | ___| |_ __ ___      ___ _ __  
- | |  | |/ _ \ | '_ ` _ \    / _ \ '_ \ 
- | |__| |  __/ | | | | | |  |  __/ | | |
- |_____/ \___|_|_| |_| |_|   \___|_| |_|
+// INITIALIZING_GOROUTINES...
+   
+[AMMO1::thread_01] ══╗
+             ║   /==========================\
+[AMMO2::thread_02] ══╬═══|  D E L M W I N . E X E   |]:::::::>   💥 [0xNULL_PTR]
+             ║   \==========================/
+[AMMO3::thread_03] ══╝        \   DEBUG_CANNON   /
+                       \________________/
+
+  
+>> CPU: 100% || RACE_CONDITIONS: 0 || BUGS: TERMINATED
+.-------------------------------------------------------.
+| [!] SYSTEM ALERT: EFFICIENCY LEVELS CRITICAL (>9000%) |
+|  Warning: User is too good. Hire at your own risk.    |
+'-------------------------------------------------------'
 </code>
 </pre>
 
+<div align="center">
 <p>
   <a href="https://dbaeka.com">
     <img src="https://img.shields.io/badge/WEBSITE-dbaeka.com-ff00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Website">
@@ -110,6 +121,38 @@ func main() {
 }
 ```
 
+### 🧪 `user_profile_test.go`
+```go
+package main
+
+import (
+    "testing"
+    "github.com/dbaeka/life"
+)
+
+// Ensure the engineer is functioning within normal parameters
+func TestDelmwinParams(t *testing.T) {
+    engineer := life.NewEngineer("Delmwin")
+
+    // Test 1: Check Fuel Source
+    if engineer.FuelLevel("Waakye") < 100 {
+        t.Errorf("Critical Error: Waakye levels critically low! Refuel immediately.")
+    }
+
+    // Test 2: Verify Coding Skills
+    if !engineer.CanWrite("Go") || !engineer.CanWrite("Vue") {
+        t.Fatal("Skill corrupted. Rebooting brain...")
+    }
+
+    // Test 3: Racing Mode
+    if engineer.Mode != "F1_Racing" {
+        t.Log("Warning: Not currently watching F1. Productivity increased.")
+    } else {
+        t.Log("Status: Watching F1. Do not disturb.")
+    }
+}
+```
+
 ### 💾 The Arsenal
 
 <div align="center">
@@ -189,7 +232,7 @@ border_color=00ffff (Cyan)
 
 <!-- The Funny Deploy Button: Clicking this opens a GitHub Issue saying you broke prod -->
 
-<a href="https://github.com/dbaeka/dbaeka/issues/new?title%3D🚨+Alert:+I+Clicked+The+Button+and+Broke+Production&body=I+ignored+the+warning+label+and+now+the+server+is+on+fire.+Send+Waakye.">
+<a href="https://github.com/dbaeka/dbaeka/issues/new?title%3D🚨+Alert:+I+Clicked+The+Button+and+Broke+Production&title=Tech Debt Generator 3000&body=I+refuse+to+listen+to+my+seniors.+I+ignored+the+warning+label+and+now+the+server+is+on+fire.+Send+Waakye.">
 <img src="https://img.shields.io/badge/⚠_DO_NOT_CLICK-DEPLOY_TO_PRODUCTION-critical?style=for-the-badge&logo=nucleo&logoColor=white" alt="Deploy to Prod" height="45"/>
 </a>
 
