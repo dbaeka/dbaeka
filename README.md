@@ -22,7 +22,7 @@
    
 [AMMO1::thread_01] ══╗
              ║   /==========================\
-[AMMO2::thread_02] ══╬═══|  D E L M W I N . E X E   |]:::::::>   💥 [0xNULL_PTR]
+[AMMO2::thread_02] ══╬═══|  D E L M W I N . A P P   |]:::::::>   💥 [0xNULL_PTR]
              ║   \==========================/
 [AMMO3::thread_03] ══╝        \   DEBUG_CANNON   /
                        \________________/
